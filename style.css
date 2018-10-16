@@ -25,3 +25,14 @@ html, body {
   margin: 60px 0;
   color: #888;
 }
+
+.content h3 {
+  text-align: center;
+  width: 100%;
+  color: #888;
+}
+
+.content h3 a {
+  color: #888;
+  text-decoration: none;
+}
