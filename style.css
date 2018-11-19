@@ -14,7 +14,7 @@ html, body {
 }
 
 .content img {
-  width: 50%;
+  width: 90%;
 }
 
 .content h2 {
@@ -35,4 +35,10 @@ html, body {
 .content h3 a {
   color: #888;
   text-decoration: none;
+}
+
+@media only screen and (min-width: 600px) {
+  .content img {
+    width: 50%;
+  }
 }
