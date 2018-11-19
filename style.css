@@ -41,4 +41,12 @@ html, body {
   .content img {
     width: 50%;
   }
+  .shopify-link img {
+    width: 300px;
+  }
 }
+
+.shopify-link img {
+  width: 50%;
+}
+
