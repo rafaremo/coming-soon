@@ -46,6 +46,10 @@ html, body {
   }
 }
 
+.shopify-link {
+  text-align: center;
+}
+
 .shopify-link img {
   width: 50%;
 }
